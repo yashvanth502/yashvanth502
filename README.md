@@ -1,16 +1,16 @@
-## Hi there 👋 IT's me Yashvanth
+## Hi there 👋 It's me Yashvanth
 
-<!--
-**yashvanth502/yashvanth502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mechanical Engineering student 
+<img align="right" width="370" height="290" src="
 
-Here are some ideas to get you started:
+👨‍💻 About myself,
+- 🔭 I’m currently studying at: VIT university,chennai (Batch-2024-2028)
+- 🌱 I’m currently learning: JAVASCRIPT ,CAD,ARDUNIO,FRONTEND DEVELOPER,AIML,AUTOMATION
+- 👯 I’m looking to collaborate on: Open-source AI projects
+- 💬 Ask me about:cad, electronics, Automation
+- 📫 How to reach me:Yash@502505@gmail.com
+ -  ⚡ Fun Facts
+⚡ Fun fact: I wrote my first line of code in Python when I was 13.
+🎮 Hobby: Competitive coding, playing chess 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
