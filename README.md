@@ -15,7 +15,7 @@ Mechanical Engineering student
 - 📬 how to reach me : <br  /> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <img 
  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
 
-### I code in : <img height ="50" width="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/> <img height ="50" width="50" src="https://icons8.com/icon/108784/javascript"/> <img height ="50" width="50" src="https://icons8.com/icon/vR6XrZzQr1CN/my-sql"/> 
+### I code in :<br /> <img height ="50" width="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/> 
  
 -    
   
