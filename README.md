@@ -16,9 +16,7 @@ Mechanical Engineering student
  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
 
 ### I code in :<br /> <img height ="50" width="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/>
- 
--    
+    
   
   
 
--->
