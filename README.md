@@ -13,6 +13,7 @@ Mechanical Engineering student
 - ⚡ Fun fact: I wrote my first line of code in Python when I was 13.
 
 - 📬 how to reach me :
+
 - <br  /> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 -    
   
