@@ -1,6 +1,6 @@
 ## Hi there 👋  It's me Yashvanth
 
-mechanical Engineering student 
+Mechanical Engineering student 
 
 <img align="right" width="370" height="290" src="
 
