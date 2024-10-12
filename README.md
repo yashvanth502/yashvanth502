@@ -9,7 +9,8 @@ mechanical Engineering student
 - 👯 I’m looking to collaborate on: Open-source AI projects
 - 💬 Ask me about:cad, electronics, Automation
 - 📫 How to reach me: Yash@502505@gmail.com
--⚡ Fun fact: I wrote my first line of code in Python when I was 13.
+
+- ⚡ Fun fact: I wrote my first line of code in Python when I was 13.
 -🎮 Hobby: Competitive coding, playing chess
 
 -->
