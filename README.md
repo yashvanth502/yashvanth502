@@ -6,11 +6,14 @@ Mechanical Engineering student
 
 👨‍💻 About myself,
 - 🔭 I’m currently studying at: VIT university,chennai (Batch-2024-2028)
-- 🌱 I’m currently learning: JAVASCRIPT ,CAD,ARDUNIO,FRONTEND DEVELOPER,AIML,AUTOMATION
+- 🌱 I’m currently learning: JAVASCRIPT , CAD, ARDUNIO, FRONTEND DEVELOPER, AIML, AUTOMATION
 - 👯 I’m looking to collaborate on: Open-source AI projects
-- 💬 Ask me about:cad, electronics, Automation
+- 💬 Ask me about: cad, electronics , Automation
 - 📫 How to reach me: Yash@502505@gmail.com
 - ⚡ Fun fact: I wrote my first line of code in Python when I was 13.
+- 📬 how to reach me :
+- <br  /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]
+-    
   
   
 
