@@ -1,6 +1,7 @@
 ## Hi there 👋 It's me Yashvanth
 
 mechanical Engineering student 
+
 <img align="right" width="370" height="290" src="
 
 👨‍💻 About myself,
@@ -10,6 +11,7 @@ mechanical Engineering student
 - 💬 Ask me about:cad, electronics, Automation
 - 📫 How to reach me: Yash@502505@gmail.com
 - ⚡ Fun fact: I wrote my first line of code in Python when I was 13.
+- 
   
 
 -->
