@@ -2,7 +2,9 @@
 
 mechanical Engineering student 
 
-<img align="right" width="370" height="290" src="
+<img align="right" width="370" height="290" src="![Alt Text](https://media.giphy.com/media/your-gif-id/giphy.gif)"
+
+
 
 👨‍💻 About myself,
 - 🔭 I’m currently studying at: VIT university,chennai (Batch-2024-2028)
