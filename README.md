@@ -2,7 +2,7 @@
 
 Mechanical Engineering student 
 
-<img align="right" width="370" height="290" src="https://www.icegif.com/wp-content/uploads/2023/01/icegif-539.gif">
+<img align="right" width="370" height="290" src="https://www.mkgifs.com/wp-content/uploads/2023/05/Onigiri-Zoro-GIF.gif">
 
 👨‍💻 About myself,
 - 🔭 I’m currently studying at: VIT university,chennai (Batch-2024-2028)
