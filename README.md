@@ -1,11 +1,11 @@
 ## Hi there 👋  It's me Yashvanth
 
-### React Developer | UI/UX Designer | EEE Innovator | AI/ML Learner  
-🎓 First-year B.Tech Mechanical Engineering Student @ VIT Chennai
+### React Developer | AI/ML Learner | CAD  
+🎓 Second-year B.Tech Mechanical Engineering Student @ VIT Chennai
 
-💡 Passionate about blending **React**, **UI/UX**, and **AI/ML** to build smart, impactful solutions.  
+💡 Passionate about blending **React** and **AI/ML** to build smart, impactful solutions.  
 Currently building **Rescue Neet** – a smart flood response system using AI + IoT.  
-🎯 My long-term goal: to become a top product developer.
+🎯 My long-term goal: to become a top product developer in Nvidia
 
 ---
 
